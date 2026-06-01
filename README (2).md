@@ -80,6 +80,8 @@
 <!-- ====================== TECH STACK ====================== -->
 ## ◢ Tech Stack
 
+<div align="center">
+
 **Smart Contracts & Chain**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -102,6 +104,8 @@
 ![Pinata](https://img.shields.io/badge/Pinata-E4405F?style=for-the-badge&logo=pinata&logoColor=white)
 ![AES-256](https://img.shields.io/badge/AES--256-Encryption-FF6B35?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Zero Knowledge](https://img.shields.io/badge/Zero--Knowledge-Proofs-8B5CF6?style=for-the-badge&logo=zerotier&logoColor=white)
+
+</div>
 
 <!-- ====================== ECOSYSTEM ====================== -->
 ## ◢ Ecosystem & Integrations
