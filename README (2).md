@@ -43,22 +43,40 @@
 
 > Trade without asking for permission. Encryption happens on your device, payments hit your wallet directly, and no one takes a cut of what's yours.
 
-<!-- ====================== HOW IT WORKS ====================== -->
-## ◢ How it works
-
-```
-  ┌──────────────┐      ┌───────────────┐      ┌────────────────┐      ┌──────────────┐
-  │   CONNECT    │  →   │    ENCRYPT     │  →   │   STORE / SELL  │  →   │   SETTLE     │
-  │   wallet     │      │   on-device    │      │  IPFS + on-chain│      │   on Solana  │
-  └──────────────┘      └───────────────┘      └────────────────┘      └──────────────┘
-   Phantom · Solflare    AES-256 in browser     Pinned to IPFS,         SOL lands in your
-   Backpack · Ledger     Buyer's key decrypts    listed on-chain         wallet in < 2s
-```
-
-1. **Connect** your Solana wallet in one click — no sign-up, no email, no passwords.
-2. **Encrypt** the moment you drop a file in. It's sealed locally; only the buyer's wallet can open it.
-3. **Sell** by setting a price in SOL and sharing the link — or run a **Data Drop** auction.
-4. **Get paid** instantly when someone buys. No invoices, no custodians, no waiting.
+<!-- ====================== EXPLORE CARDS ====================== -->
+## ◢ Where to start
+ 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<a href="https://obscra.app/market">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=9945FF&height=90&section=header&text=🛒%20Market&fontSize=26&fontColor=ffffff" width="100%" alt="Market"/>
+<br/>
+<b>Browse the Marketplace</b>
+</a>
+<br/>
+<sub>Discover encrypted files for sale and buy instantly with SOL — decryption happens only in your wallet.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://obscra.app/auction">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B35&height=90&section=header&text=🔥%20Auction&fontSize=26&fontColor=ffffff" width="100%" alt="Auction"/>
+<br/>
+<b>Run a Data Drop</b>
+</a>
+<br/>
+<sub>List your data and let buyers bid. The highest bid wins, settled on-chain in under two seconds.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://explore.obscra.app">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=14F195&height=90&section=header&text=🔎%20Explorer&fontSize=26&fontColor=000000" width="100%" alt="Explorer"/>
+<br/>
+<b>Verify on Solana</b>
+</a>
+<br/>
+<sub>Inspect every trade on-chain. Immutable, auditable, and visible to both parties forever.</sub>
+</td>
+</tr>
+</table>
 
 <!-- ====================== TECH STACK ====================== -->
 ## ◢ Tech Stack
