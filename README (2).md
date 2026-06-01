@@ -1,6 +1,4 @@
-<!-- ====================== BANNER ====================== -->
-<div align="center">
-<img src="assets/banner.png" width="100%" alt="OBSCRA — Open Source"/>
+
 <!-- Typing tagline -->
 <a href="https://obscra.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9945FF&center=true&vCenter=true&width=900&lines=ZK-Verified+Data+Marketplace+on+Solana;Encrypted+on+your+device.+Settled+on+Solana.;Store%2C+sell%2C+and+auction+data+with+cryptographic+proofs.;You+keep+the+keys.+You+keep+the+proof." alt="Typing SVG"/>
