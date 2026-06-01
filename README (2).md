@@ -133,6 +133,5 @@ OBSCRA speaks the language of the wallets, chains, and storage layers you alread
 
 <i>No custodians. No middlemen. Just you and SOL.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14F195,100:9945FF&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
