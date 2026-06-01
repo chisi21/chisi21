@@ -30,13 +30,6 @@
 
 > Trade without asking for permission. Encryption happens on your device, payments hit your wallet directly, and no one takes a cut of what's yours.
 
-- 🔐 **Client-side encryption** — files are encrypted with AES-256 in your browser before they ever leave your device
-- ⚡ **Instant settlement** — payments clear on Solana in under 2 seconds, straight to your wallet
-- 🌐 **Censorship-resistant storage** — every file is pinned and replicated across IPFS, archived on Filecoin
-- 🧾 **Proof on every trade** — each purchase is written immutably to Solana, auditable by both parties forever
-- 🪪 **Your wallet is your password** — access by signature, not a login form. No accounts to hack
-- 🛠️ **Fully open source** — MIT licensed. Self-host the whole stack or build your own marketplace on top
-
 <!-- ====================== HOW IT WORKS ====================== -->
 ## ◢ How it works
 
