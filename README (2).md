@@ -109,13 +109,19 @@ OBSCRA speaks the language of the wallets, chains, and storage layers you alread
 <!-- ====================== REPOS / EXPLORE ====================== -->
 ## ◢ Explore the Protocol
 
-- 📄 [**Smart Contract**](https://github.com/obscra/smart-contract) — the on-chain settlement & escrow logic, written in Rust
-- 🛒 [**Marketplace**](https://obscra.app/market) — browse and buy encrypted files
-- 🔥 [**Data Drops**](https://obscra.app/auction) — auction your data to the highest bidder
-- ☁️ [**Private Cloud**](https://obscra.app/cloud) — self-custodial encrypted storage
-- 🔁 [**Direct Transfer**](https://obscra.app/direct-transfer) — peer-to-peer encrypted file delivery
-- 🔎 [**Explorer**](https://explore.obscra.app) — verify every on-chain trade
-- 📚 [**Docs**](https://obscra.app/docs) · [**Whitepaper**](https://obscra.app/whitepaper)
+<div align="center">
+
+<a href="https://github.com/obscra/smart-contract"><img src="https://img.shields.io/badge/📄_Smart_Contract-9945FF?style=for-the-badge&logoColor=white"/></a>
+<a href="https://obscra.app/market"><img src="https://img.shields.io/badge/🛒_Marketplace-14F195?style=for-the-badge&logoColor=black"/></a>
+<a href="https://obscra.app/auction"><img src="https://img.shields.io/badge/🔥_Data_Drops-FF6B35?style=for-the-badge&logoColor=white"/></a>
+<a href="https://obscra.app/cloud"><img src="https://img.shields.io/badge/☁️_Private_Cloud-65C2CB?style=for-the-badge&logoColor=white"/></a>
+<br/>
+<a href="https://obscra.app/direct-transfer"><img src="https://img.shields.io/badge/🔁_Direct_Transfer-8B5CF6?style=for-the-badge&logoColor=white"/></a>
+<a href="https://explore.obscra.app"><img src="https://img.shields.io/badge/🔎_Explorer-0090FF?style=for-the-badge&logoColor=white"/></a>
+<a href="https://obscra.app/docs"><img src="https://img.shields.io/badge/📚_Docs-2A2A2A?style=for-the-badge&logoColor=white"/></a>
+<a href="https://obscra.app/whitepaper"><img src="https://img.shields.io/badge/📜_Whitepaper-000000?style=for-the-badge&logoColor=white"/></a>
+
+</div>
 
 <!-- ====================== CONNECT ====================== -->
 ## ◢ Connect
