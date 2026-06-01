@@ -6,16 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9945FF&center=true&vCenter=true&width=900&lines=ZK-Verified+Data+Marketplace+on+Solana;Encrypted+on+your+device.+Settled+on+Solana.;Store%2C+sell%2C+and+auction+data+with+cryptographic+proofs.;You+keep+the+keys.+You+keep+the+proof." alt="Typing SVG"/>
 </a>
 <br/>
-<!-- Badges -->
-<a href="https://obscra.app"><img src="https://img.shields.io/badge/Live_App-obscra.app-9945FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://explore.obscra.app"><img src="https://img.shields.io/badge/Explorer-explore.obscra.app-14F195?style=for-the-badge&logo=solana&logoColor=white"/></a>
-<a href="https://x.com/obscra_void"><img src="https://img.shields.io/badge/Twitter-@obscra__void-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/Obscra_Portal"><img src="https://img.shields.io/badge/Telegram-Obscra__Portal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<br/>
-<img src="https://img.shields.io/badge/License-MIT-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Built_on-Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Storage-IPFS_%2B_Filecoin-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=obscra&label=Profile%20Views&color=9945FF&style=flat-square"/>
+<img width="2172" height="724" alt="ChatGPT Image Jun 2, 2026, 12_19_56 AM" src="https://github.com/user-attachments/assets/2ea47dc7-a084-4eb6-92d9-4d892d19ae5d" />
+
 
 <!-- Badges -->
 <a href="https://obscra.app"><img src="https://img.shields.io/badge/Live_App-obscra.app-9945FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
