@@ -23,6 +23,20 @@
 
 </div>
 
+<!-- ====================== STATS ====================== -->
+## ◢ GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=obscra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9945FF&icon_color=14F195"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=obscra&theme=tokyonight&hide_border=true&background=0D1117&ring=9945FF&fire=14F195&currStreakLabel=9945FF"/>
+
+</div>
+
 <!-- ====================== ABOUT ====================== -->
 ## ◢ What is OBSCRA?
 
@@ -85,19 +99,6 @@ OBSCRA speaks the language of the wallets, chains, and storage layers you alread
 | Backpack | — | Pinata (pinning) | — |
 | Ledger | — | Irys | — |
 
-<!-- ====================== STATS ====================== -->
-## ◢ GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=obscra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9945FF&icon_color=14F195"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9945FF&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=obscra&theme=tokyonight&hide_border=true&background=0D1117&ring=9945FF&fire=14F195&currStreakLabel=9945FF"/>
-
-</div>
 
 <!-- ====================== REPOS / EXPLORE ====================== -->
 ## ◢ Explore the Protocol
