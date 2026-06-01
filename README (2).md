@@ -100,7 +100,6 @@ OBSCRA speaks the language of the wallets, chains, and storage layers you alread
 
 
 <!-- ====================== REPOS / EXPLORE ====================== -->
-## ◢ Explore the Protocol
 
 <div align="center">
 
